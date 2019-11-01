@@ -13,4 +13,4 @@ Drive Link [here](https://drive.google.com/drive/folders/1aNvU-sJloD4MSLa4SDqHuU
 4. One Millisecond Face Alignment with an Ensemble of Regression Trees
 5. Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks
 6. Rapid Object Detection using a Boosted Cascade of Simple Features (Viola-Jones algorithm)
-
+7. Visualizing and Understanding Convolutional Networks
