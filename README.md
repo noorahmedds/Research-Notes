@@ -14,3 +14,6 @@ Drive Link [here](https://drive.google.com/drive/folders/1aNvU-sJloD4MSLa4SDqHuU
 5. Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks
 6. Rapid Object Detection using a Boosted Cascade of Simple Features (Viola-Jones algorithm)
 7. Visualizing and Understanding Convolutional Networks
+8. Meta-meta-learning for Neural Architecture Search through arXiv Descent (One of the funniest papers ive ever read. Unofficial)
+
+
