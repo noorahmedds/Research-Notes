@@ -4,6 +4,14 @@ This repository contains notes from my paper reading. Papers' pdfs with notes wi
 
 Drive Link [here](https://drive.google.com/drive/folders/1aNvU-sJloD4MSLa4SDqHuUdApaVwHp60?usp=sharing)
 
+# Links to good reading material
+1. https://blog.paperspace.com
+2. https://github.com/noorahmedds/awesome-deep-learning-papers (forked)
+3. https://github.com/noorahmedds/awesome-deep-vision (forked)
+4. http://karpathy.github.io
+5. https://github.com/noorahmedds/awesome-computer-vision
+
+
 ---
 # Papers List
 
