@@ -23,5 +23,5 @@ Drive Link [here](https://drive.google.com/drive/folders/1aNvU-sJloD4MSLa4SDqHuU
 6. Rapid Object Detection using a Boosted Cascade of Simple Features (Viola-Jones algorithm)
 7. Visualizing and Understanding Convolutional Networks
 8. Meta-meta-learning for Neural Architecture Search through arXiv Descent (One of the funniest papers ive ever read. Unofficial)
-
+9. Intro to optimization in deep learning/ Busting the myth about batch normalization. (Article by Ayoosh Kathuria, [Link](https://blog.paperspace.com/busting-the-myths-about-batch-normalization/))
 
